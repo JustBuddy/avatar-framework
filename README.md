@@ -4,7 +4,8 @@ Please grab the latest release on our distribution sites.
 
 View: https://buddyworks.wtf
 
-'BUDDYWORKS Avatar Framework v5
+```
+BUDDYWORKS Avatar Framework v5
 by Buddy_DE
 
 PLEASE INCLUDE THIS DOCUMENT INSIDE THE AVATARS UNITY PACKAGE OR ALONGSIDE IT BY OTHER MEANS.
@@ -58,4 +59,5 @@ https://buddyworks.wtf/
 
 Thank you for choosing BUDDYWORKS assets for your project, cheers!
 
--Buddy'
+-Buddy
+```
