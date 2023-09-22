@@ -24,7 +24,7 @@ Icons not from the SDK are from Carbon-Copy, graciously provided by Dreadrith an
 > SO IS CONTROLLER EDITOR FOR EDITING THE FX CONTROLLER.
 
 
-1. Expressions
+### Expressions
 Setting up the expressions should be straightforward if you have done that before already.
 The logic is included, you just need to insert the expressions you want in the corresponding slots.
 If you want the gestures to mix, you could set up the animations for mouth at one hand and for the
@@ -32,7 +32,7 @@ rest of the face on the other. How you end up designing it is up to you. Make us
 to neutralize all modified blendshapes on each hand. The expressions should be animated with at least
 two frames for transitioning, the logic uses a weight float to smoothly animate it.
 
-2. Exclusive Switches
+### Exclusive Switches
 The premade layers Tops, Pants and Shoes are written as exclusive INT toggles,
 meaning that only one option of each layer can be active at once.
 This is useful for things you don't want to let conflict with each other.
@@ -42,13 +42,13 @@ This system assumes WD On workflow, make sure that the animations
 other than default disable whatever default enables, else you will see the default outfit stuck below the selected other outfit.
 Means: Animate Default properties OFF in the other outfit clips.
 
-3. Presets
+### Presets
 This layer is exclusively working with parameter drivers, allowing you to specify parameters to change on each of the states.
 This gives you a simple way to create outfit presets which involve multiple pieces,
 maybe including some toggles as well. Use as you see fit, or don't, up to you.
 Keep the Parameter Driver for "Clothing/Preset" at 0, so it can return back to its idle state properly.
 
-4. Toggles and Sliders
+### Toggles and Sliders
 What I like to call "The Master Blendtree", here you create non-exclusive toggles and also sliders/radials
  like hue shifts or bodypart compensati... shaping. Using a direct blendtree not only makes creating toggles easier,
  it is also extremely efficient. All parts of the blendtree can work independent from each other,
@@ -76,7 +76,7 @@ If you need WD Off, you need to rewrite the toggles to account for that.
  If you want a throughout guide on how to write and maintain a blendtree, I highly recommend this resource: https://notes.sleightly.dev/dbt-combining/
  Please note that this guide shows you how to write Direct BlendTree toggles in the WD Off workflow, the tree provided by me is written in the WD On workflow.
 
-5. Relief
+### Relief
 That should be it, anything else is just a matter of exploration, the menu structure should be self explanatory, examples are included.
 
 If you have any questions, don't fear to ask in the BUDDYWORKS Discord,
