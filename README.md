@@ -36,9 +36,10 @@ meaning that only one option of each layer can be active at once.
 This is useful for things you don't want to let conflict with each other.
 Adapt and duplicate as you seem fit.
 
-IMPORTANT: This system assumes WD On workflow, make sure that the animations
-other than default disable whatever default enables, else you will see the default outfit stuck below the selected other outfit.
-Means: Animate Default properties OFF in the other outfit clips.
+> [!IMPORTANT]
+> IMPORTANT: This system assumes WD On workflow, make sure that the animations
+> other than default disable whatever default enables, else you will see the default outfit stuck below the selected other outfit.
+> Means: Animate Default properties OFF in the other outfit clips.
 
 3. Presets
 This layer is exclusively working with parameter drivers, allowing you to specify parameters to change on each of the states.
