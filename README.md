@@ -61,7 +61,9 @@ Please note the following limitations:
 - Things with a constant animation, like image slideshows or tail-wags, are really janky in a blendtree.
 Prefer keeping those in a separate layer if they misbehave.
 
-- THERE IS NO SUCH THING AS DISSOLVE ANIMATIONS IN A DIRECT BLENDTREE TOGGLE!
+> [!WARNING]
+> THERE IS NO SUCH THING AS DISSOLVE ANIMATIONS IN A DIRECT BLENDTREE TOGGLE!
+
 Since we use parameter mismatch, every animation's state will fling directly to off or on,
 you don't get to see the inbetweens. You would need a very convoluted logic and parameter smoothing system to circumvent that,
 but at that point you might as well run the thing outside the blendtree.
