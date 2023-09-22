@@ -4,11 +4,9 @@ Please grab the latest release on our distribution sites.
 
 View: https://buddyworks.wtf
 
-```
-BUDDYWORKS Avatar Framework v5
-by Buddy_DE
 
-PLEASE INCLUDE THIS DOCUMENT INSIDE THE AVATARS UNITY PACKAGE OR ALONGSIDE IT BY OTHER MEANS.
+
+## Documentation
 
 0. Notes and "License"
 Usage of the framework is free of charge, the included icons can be used for private and commercial use,
@@ -86,4 +84,4 @@ https://buddyworks.wtf/
 Thank you for choosing BUDDYWORKS assets for your project, cheers!
 
 -Buddy
-```
+
