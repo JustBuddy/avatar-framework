@@ -8,7 +8,7 @@ View: https://buddyworks.wtf
 
 ## Documentation
 
-0. Notes and "License"
+### Notes and "License"
 Usage of the framework is free of charge, the included icons can be used for private and commercial use,
 including using them for commission work or the production of a prefabricated avatar. (free/nitro/sale)
 The Icons can also be used in a free public avatar, but please make sure that so can everything else.
