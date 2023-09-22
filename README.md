@@ -17,7 +17,7 @@ Purpose is to be a quickstart point and a general recommendation around most bes
 it will however not do the thinking for you. This is a template, adjust it to your needs.
 Crediting me is optional, along the lines of "BUDDYWORKS Avatar Framework v5 by Buddy_DE"
 
-Icons not from the SDK are from Carbon-Copy, graciously provided by @Dreadrith and @JustSleightly.
+Icons not from the SDK are from Carbon-Copy, graciously provided by [Dreadrith](https://github.com/Dreadrith) and [JustSleightly](https://github.com/JustSleightly).
 
 > [!NOTE]
 > USE OF VRCSDK+ FROM DREADRITH IS EXTREMELY RECOMMENDED WHEN WORKING WITH THIS MENU,
