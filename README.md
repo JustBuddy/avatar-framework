@@ -1,8 +1,6 @@
 # BUDDYWORKS Avatar Framework
 This is a repository for organizing and backing up the Avatar Framework files.
 It does not accept PR's or Issues, support is handled over our discord.
-> [!NOTE]
-Please grab the latest release on our distribution sites.
 
 View: https://buddyworks.wtf
 
