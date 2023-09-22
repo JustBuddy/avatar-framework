@@ -19,8 +19,10 @@ Crediting me is optional, along the lines of "BUDDYWORKS Avatar Framework v5 by 
 
 Icons not from the SDK are from Carbon-Copy, graciously provided by Dreadrith and JustSleightly.
 
-USE OF VRCSDK+ FROM DREADRITH IS EXTREMELY RECOMMENDED WHEN WORKING WITH THIS MENU,
-SO IS CONTROLLER EDITOR FOR EDITING THE FX CONTROLLER.
+> [!NOTE]
+> USE OF VRCSDK+ FROM DREADRITH IS EXTREMELY RECOMMENDED WHEN WORKING WITH THIS MENU,
+> SO IS CONTROLLER EDITOR FOR EDITING THE FX CONTROLLER.
+
 
 1. Expressions
 Setting up the expressions should be straightforward if you have done that before already.
@@ -63,13 +65,13 @@ Please note the following limitations:
 Prefer keeping those in a separate layer if they misbehave.
 
 > [!WARNING]
-> THERE IS NO SUCH THING AS DISSOLVE ANIMATIONS IN A DIRECT BLENDTREE TOGGLE!
+> There is no such thing as a dissolve animation in a direct blendtree toggle!
 
 Since we use parameter mismatch, every animation's state will fling directly to off or on,
 you don't get to see the inbetweens. You would need a very convoluted logic and parameter smoothing system to circumvent that,
 but at that point you might as well run the thing outside the blendtree.
 
- The tree is written in the Write Defaults ON workflow, using WD Off at any point in your avatar will break its behavior.
+The tree is written in the Write Defaults ON workflow, using WD Off at any point in your avatar will break its behavior.
 If you need WD Off, you need to rewrite the toggles to account for that.
 
  If you want a throughout guide on how to write and maintain a blendtree, I highly recommend this resource: https://notes.sleightly.dev/dbt-combining/
