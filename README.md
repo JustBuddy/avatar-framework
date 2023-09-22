@@ -20,9 +20,8 @@ Crediting me is optional, along the lines of "BUDDYWORKS Avatar Framework v5 by 
 Icons not from the SDK are from Carbon-Copy, graciously provided by [Dreadrith](https://github.com/Dreadrith) and [JustSleightly](https://github.com/JustSleightly).
 
 > [!NOTE]
-> USE OF VRCSDK+ FROM DREADRITH IS EXTREMELY RECOMMENDED WHEN WORKING WITH THIS MENU,
-> SO IS CONTROLLER EDITOR FOR EDITING THE FX CONTROLLER.
-
+> Use of VRCSDK+ from Dreadrith is extremely recommended when working with this menu,
+> so is controller editor for editing the FX controller.
 
 ### Expressions
 Setting up the expressions should be straightforward if you have done that before already.
