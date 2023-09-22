@@ -37,7 +37,7 @@ This is useful for things you don't want to let conflict with each other.
 Adapt and duplicate as you seem fit.
 
 > [!IMPORTANT]
-> IMPORTANT: This system assumes WD On workflow, make sure that the animations
+> This system assumes WD On workflow, make sure that the animations
 > other than default disable whatever default enables, else you will see the default outfit stuck below the selected other outfit.
 > Means: Animate Default properties OFF in the other outfit clips.
 
